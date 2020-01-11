@@ -1,3 +1,7 @@
+# Whodunit #
+
+A program that reveals the hidden message in a bitmap file. The following questions are answered based on the learning from the problem set:
+
 # Questions
 
 ## What's `stdint.h`?
